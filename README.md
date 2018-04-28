@@ -1,4 +1,4 @@
-## These are just notes from few tutorials.
+## These are just notes from few tutorials. (So far)
 
 You can follow these instructions to build the gallery app
 and install it onto your device.
